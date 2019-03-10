@@ -1,6 +1,6 @@
 ---
 title: Shadows
-image: assets/images/fulls/02.jpg
-thumbnail: assets/images/thumbs/02.jpg
+image: assets/images/fulls/0002.jpg
+thumbnail: assets/images/thumbs/0002.jpg
 caption: Shadows
 ---
