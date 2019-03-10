@@ -1,6 +1,6 @@
 ---
-title: Autumn Leaf
-image: assets/images/fulls/0007.jpg
-thumbnail: assets/images/thumbs/0007.jpg
-caption: Autumn Leaf
+title: Triton Fountain Valletta
+image: assets/images/fulls/0008.jpg
+thumbnail: assets/images/thumbs/0008.jpg
+caption: Triton Fountain Valletta
 ---
