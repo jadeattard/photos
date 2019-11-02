@@ -1,6 +1,6 @@
 ---
 title: Sunbathing
-image: assets/images/fulls/0012.jpg
-thumbnail: assets/images/thumbs/0012.jpg
+image: assets/images/fulls/0011.jpg
+thumbnail: assets/images/thumbs/0011.jpg
 caption: Sunbathing
 ---
